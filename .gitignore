@@ -46,3 +46,6 @@ phpunit.phar
 # NPM packages
 /node_modules
 .env
+
+#update db
+/update_db
